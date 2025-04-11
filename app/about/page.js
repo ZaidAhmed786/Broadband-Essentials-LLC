@@ -60,7 +60,7 @@ export default function About() {
 
                                  <div className="d-flex align-items-center gap-3 mt-4">
                                 <img src="/assets/img/map-location-solid.png" alt="icon-img" className='img-fluid' width="30px" />
-                                <h3>Nationwide Coverage</h3>
+                                <h3>Essentials Coverage</h3>
                                 </div>
                                 <p className="fw-medium pt-4">
                                 Wherever you are in the United States, we've got you covered with high-quality connectivity in urban centers and rural areas alike.
