@@ -20,13 +20,15 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="mailto:sales@broadbandessentials.net" className="link">refunds@broadbandessentials.net</Link>
+                                    <Link href="mailto:refund@broadbandessentials.net" className="link">refund@broadbandessentials.net </Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
                                     <a href="tel:+18888688345">+1 (888) 868-8345</a>
                                 </li>
                             </ul>
+                            <div className=" "><h5 className=" text-white px-3 py-2">Mon-Sat, 9am-7pm (EST)</h5></div>
+
                            
                         </div>
                     </div>
