@@ -1,5 +1,5 @@
 import Layout from "@/components/layout/Layout"
-import SiteSeal from "@/components/layout/SiteSeal"
+// import SiteSeal from "@/components/layout/SiteSeal"
 import About1 from "@/components/sections/About1"
 import Achievement1 from "@/components/sections/Achievement1"
 import Added from "@/components/sections/Added"
@@ -45,7 +45,7 @@ export default function Home() {
         right: '20px',
         zIndex: 9999
       }}>
-        <SiteSeal />
+        {/* <SiteSeal /> */}
       </div>
     </>
   )

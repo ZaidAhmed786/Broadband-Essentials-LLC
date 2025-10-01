@@ -49,7 +49,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
                                                         <div >
-                                                            <Link href="mailto:sales@broadbandessentials.site " className="text-white fs-6 fw-bold">sales@broadbandessentials.site </Link>
+                                                            <Link href="mailto:sales@broadbandessentials.net " className="text-white fs-6 fw-bold">sales@broadbandessentials.net </Link>
                                                         </div>
                                                     </div>
                                                 </div>

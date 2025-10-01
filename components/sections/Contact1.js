@@ -37,7 +37,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Make a Quote</p>
                                                         <h3>
-                                                            <Link href="mailto:infotech@gmail.com">sales@broadbandessentials.site </Link>
+                                                            <Link href="mailto:infotech@gmail.com">sales@broadbandessentials.net </Link>
                                                         </h3>
                                                     </div>
                                                 </div>

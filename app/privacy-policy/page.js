@@ -1,6 +1,6 @@
 
 import Layout from "@/components/layout/Layout"
-import SiteSeal from "@/components/layout/SiteSeal"
+// import SiteSeal from "@/components/layout/SiteSeal"
 import Link from "next/link"
 export default function PrivacyPolicy() {
 
@@ -73,7 +73,7 @@ export default function PrivacyPolicy() {
                                 </ul>
 
                                 <p>
-                                Tell us How Can We Help - We value your feedback and are here to help with any questions or concerns you may have about this Privacy Policy or your privacy rights. Contact us at <a href="mailto:sales@broadbandessentials.site "  style={{color: "#06A3DA"}}>sales@broadbandessentials.site </a>
+                                Tell us How Can We Help - We value your feedback and are here to help with any questions or concerns you may have about this Privacy Policy or your privacy rights. Contact us at <a href="mailto:sales@broadbandessentials.net "  style={{color: "#06A3DA"}}>sales@broadbandessentials.net </a>
                                 </p>
 
                                 </div>
@@ -88,7 +88,7 @@ export default function PrivacyPolicy() {
         right: '20px',
         zIndex: 9999
       }}>
-        <SiteSeal />
+        {/* <SiteSeal /> */}
       </div>
 
             </Layout>
