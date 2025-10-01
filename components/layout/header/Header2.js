@@ -20,7 +20,7 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="mailto:refund@broadbandessentials.net" className="link">refund@broadbandessentials.net </Link>
+                                    <Link href="mailto:refunds@broadbandessentials.net" className="link">refunds@broadbandessentials.net </Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
