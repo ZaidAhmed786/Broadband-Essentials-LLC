@@ -39,8 +39,7 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                501 N 4th St, Haines City, FL 33844-3507
-+1 (888) 868-8345
+                                                16741 Citrus Pkwy, Clermont, FL 34714-5021
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
@@ -48,7 +47,7 @@ export default function Footer1() {
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="mailto:sales@cabledeal.live ">sales@cabledeal.live </Link>
+                                                <Link href="mailto:sales@broadbandessentials.site ">sales@broadbandessentials.site </Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>

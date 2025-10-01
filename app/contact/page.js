@@ -49,7 +49,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
                                                         <div >
-                                                            <Link href="mailto:sales@cabledeal.live " className="text-white fs-6 fw-bold">sales@cabledeal.live </Link>
+                                                            <Link href="mailto:sales@broadbandessentials.site " className="text-white fs-6 fw-bold">sales@broadbandessentials.site </Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -63,8 +63,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <div className="text-white fs-6 fw-bold">
-                                                        501 N 4th St, Haines City, FL 33844-3507
-+1 (888) 868-8345
+                                                        16741 Citrus Pkwy, Clermont, FL 34714-5021
                                                         </div>
                                                     </div>
                                                 </div>

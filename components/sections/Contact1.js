@@ -37,7 +37,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Make a Quote</p>
                                                         <h3>
-                                                            <Link href="mailto:infotech@gmail.com">sales@cabledeal.live </Link>
+                                                            <Link href="mailto:infotech@gmail.com">sales@broadbandessentials.site </Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -51,8 +51,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <h3>
-                                                        501 N 4th St, Haines City, FL 33844-3507
-+1 (888) 868-8345
+                                                        16741 Citrus Pkwy, Clermont, FL 34714-5021
                                                         </h3>
                                                     </div>
                                                 </div>

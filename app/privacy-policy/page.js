@@ -73,7 +73,7 @@ export default function PrivacyPolicy() {
                                 </ul>
 
                                 <p>
-                                Tell us How Can We Help - We value your feedback and are here to help with any questions or concerns you may have about this Privacy Policy or your privacy rights. Contact us at <a href="mailto:sales@cabledeal.live "  style={{color: "#06A3DA"}}>sales@cabledeal.live </a>
+                                Tell us How Can We Help - We value your feedback and are here to help with any questions or concerns you may have about this Privacy Policy or your privacy rights. Contact us at <a href="mailto:sales@broadbandessentials.site "  style={{color: "#06A3DA"}}>sales@broadbandessentials.site </a>
                                 </p>
 
                                 </div>

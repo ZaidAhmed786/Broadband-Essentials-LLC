@@ -37,8 +37,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">501 N 4th St, Haines City, FL 33844-3507
-+1 (888) 868-8345</Link>
+                                            <Link target="_blank" href="#">16741 Citrus Pkwy, Clermont, FL 34714-5021</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -46,7 +45,7 @@ export default function Offcanvas({
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="mailto:info@azent.com"><span className="mailto:sales@cabledeal.live">sales@cabledeal.live </span></Link>
+                                            <Link href="mailto:info@azent.com"><span className="mailto:sales@broadbandessentials.site">sales@broadbandessentials.site </span></Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
